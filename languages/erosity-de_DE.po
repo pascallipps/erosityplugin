@@ -1,0 +1,698 @@
+# German translation for Erosity Plugin
+# Copyright (C) 2024 Erosity Team
+# This file is distributed under the same license as the Erosity plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Erosity 1.0.0\n"
+"Report-Msgid-Bugs-To: https://erosity.com\n"
+"POT-Creation-Date: 2024-02-04 10:00+0000\n"
+"PO-Revision-Date: 2024-02-04 10:00+0000\n"
+"Last-Translator: Erosity Team\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Post Types
+msgid "Properties"
+msgstr "Unterkünfte"
+
+msgid "Property"
+msgstr "Unterkunft"
+
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+msgid "Add New Property"
+msgstr "Neue Unterkunft hinzufügen"
+
+msgid "Edit Property"
+msgstr "Unterkunft bearbeiten"
+
+msgid "New Property"
+msgstr "Neue Unterkunft"
+
+msgid "View Property"
+msgstr "Unterkunft ansehen"
+
+msgid "Search Properties"
+msgstr "Unterkünfte suchen"
+
+msgid "No properties found"
+msgstr "Keine Unterkünfte gefunden"
+
+msgid "No properties found in trash"
+msgstr "Keine Unterkünfte im Papierkorb gefunden"
+
+msgid "Toys"
+msgstr "Spielzeuge"
+
+msgid "Toy"
+msgstr "Spielzeug"
+
+msgid "Add New Toy"
+msgstr "Neues Spielzeug hinzufügen"
+
+msgid "Edit Toy"
+msgstr "Spielzeug bearbeiten"
+
+msgid "New Toy"
+msgstr "Neues Spielzeug"
+
+msgid "View Toy"
+msgstr "Spielzeug ansehen"
+
+msgid "Search Toys"
+msgstr "Spielzeuge suchen"
+
+msgid "No toys found"
+msgstr "Keine Spielzeuge gefunden"
+
+msgid "No toys found in trash"
+msgstr "Keine Spielzeuge im Papierkorb gefunden"
+
+msgid "Bookings"
+msgstr "Buchungen"
+
+msgid "Booking"
+msgstr "Buchung"
+
+msgid "Add New Booking"
+msgstr "Neue Buchung hinzufügen"
+
+msgid "Edit Booking"
+msgstr "Buchung bearbeiten"
+
+msgid "New Booking"
+msgstr "Neue Buchung"
+
+msgid "View Booking"
+msgstr "Buchung ansehen"
+
+msgid "Search Bookings"
+msgstr "Buchungen suchen"
+
+msgid "No bookings found"
+msgstr "Keine Buchungen gefunden"
+
+msgid "No bookings found in trash"
+msgstr "Keine Buchungen im Papierkorb gefunden"
+
+msgid "Reviews"
+msgstr "Bewertungen"
+
+msgid "Review"
+msgstr "Bewertung"
+
+msgid "Add New Review"
+msgstr "Neue Bewertung hinzufügen"
+
+msgid "Edit Review"
+msgstr "Bewertung bearbeiten"
+
+msgid "New Review"
+msgstr "Neue Bewertung"
+
+msgid "View Review"
+msgstr "Bewertung ansehen"
+
+msgid "Search Reviews"
+msgstr "Bewertungen suchen"
+
+msgid "No reviews found"
+msgstr "Keine Bewertungen gefunden"
+
+msgid "No reviews found in trash"
+msgstr "Keine Bewertungen im Papierkorb gefunden"
+
+msgid "Messages"
+msgstr "Nachrichten"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Add New Message"
+msgstr "Neue Nachricht hinzufügen"
+
+msgid "Edit Message"
+msgstr "Nachricht bearbeiten"
+
+msgid "New Message"
+msgstr "Neue Nachricht"
+
+msgid "View Message"
+msgstr "Nachricht ansehen"
+
+msgid "Search Messages"
+msgstr "Nachrichten suchen"
+
+msgid "No messages found"
+msgstr "Keine Nachrichten gefunden"
+
+msgid "No messages found in trash"
+msgstr "Keine Nachrichten im Papierkorb gefunden"
+
+msgid "Support Tickets"
+msgstr "Support-Tickets"
+
+msgid "Support Ticket"
+msgstr "Support-Ticket"
+
+msgid "Add New Ticket"
+msgstr "Neues Ticket hinzufügen"
+
+msgid "Edit Ticket"
+msgstr "Ticket bearbeiten"
+
+msgid "New Ticket"
+msgstr "Neues Ticket"
+
+msgid "View Ticket"
+msgstr "Ticket ansehen"
+
+msgid "Search Tickets"
+msgstr "Tickets suchen"
+
+msgid "No tickets found"
+msgstr "Keine Tickets gefunden"
+
+msgid "No tickets found in trash"
+msgstr "Keine Tickets im Papierkorb gefunden"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Extras"
+msgstr "Extras"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Add New Extra"
+msgstr "Neues Extra hinzufügen"
+
+msgid "Edit Extra"
+msgstr "Extra bearbeiten"
+
+msgid "New Extra"
+msgstr "Neues Extra"
+
+msgid "View Extra"
+msgstr "Extra ansehen"
+
+msgid "Search Extras"
+msgstr "Extras suchen"
+
+msgid "No extras found"
+msgstr "Keine Extras gefunden"
+
+msgid "No extras found in trash"
+msgstr "Keine Extras im Papierkorb gefunden"
+
+# Taxonomies
+msgid "Property Categories"
+msgstr "Unterkunft-Kategorien"
+
+msgid "Property Category"
+msgstr "Unterkunft-Kategorie"
+
+msgid "Search Categories"
+msgstr "Kategorien suchen"
+
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+msgid "Parent Category"
+msgstr "Übergeordnete Kategorie"
+
+msgid "Parent Category:"
+msgstr "Übergeordnete Kategorie:"
+
+msgid "Edit Category"
+msgstr "Kategorie bearbeiten"
+
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+msgid "Add New Category"
+msgstr "Neue Kategorie hinzufügen"
+
+msgid "New Category Name"
+msgstr "Neuer Kategoriename"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Toy Categories"
+msgstr "Spielzeug-Kategorien"
+
+msgid "Toy Category"
+msgstr "Spielzeug-Kategorie"
+
+msgid "Amenities"
+msgstr "Ausstattungsmerkmale"
+
+msgid "Amenity"
+msgstr "Ausstattungsmerkmal"
+
+msgid "Search Amenities"
+msgstr "Ausstattungsmerkmale suchen"
+
+msgid "All Amenities"
+msgstr "Alle Ausstattungsmerkmale"
+
+msgid "Edit Amenity"
+msgstr "Ausstattungsmerkmal bearbeiten"
+
+msgid "Update Amenity"
+msgstr "Ausstattungsmerkmal aktualisieren"
+
+msgid "Add New Amenity"
+msgstr "Neues Ausstattungsmerkmal hinzufügen"
+
+msgid "New Amenity Name"
+msgstr "Neuer Ausstattungsmerkmalname"
+
+msgid "Tags"
+msgstr "Schlagwörter"
+
+msgid "Tag"
+msgstr "Schlagwort"
+
+msgid "Search Tags"
+msgstr "Schlagwörter suchen"
+
+msgid "All Tags"
+msgstr "Alle Schlagwörter"
+
+msgid "Edit Tag"
+msgstr "Schlagwort bearbeiten"
+
+msgid "Update Tag"
+msgstr "Schlagwort aktualisieren"
+
+msgid "Add New Tag"
+msgstr "Neues Schlagwort hinzufügen"
+
+msgid "New Tag Name"
+msgstr "Neuer Schlagwortname"
+
+# Admin Menu
+msgid "Erosity"
+msgstr "Erosity"
+
+msgid "Dashboard"
+msgstr "Übersicht"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+# Settings Page
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "Commission Rate (%)"
+msgstr "Provisionssatz (%)"
+
+msgid "Default Commission Rate (%)"
+msgstr "Standard-Provisionssatz (%)"
+
+msgid "Global commission rate for all vendors. Individual vendors can override this in their profile."
+msgstr "Globaler Provisionssatz für alle Anbieter. Einzelne Anbieter können dies in ihrem Profil überschreiben."
+
+msgid "Currency"
+msgstr "Währung"
+
+msgid "Stripe Mode"
+msgstr "Stripe-Modus"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Live"
+msgstr "Live"
+
+msgid "Age Verification"
+msgstr "Altersverifikation"
+
+msgid "Require age verification (18+)"
+msgstr "Altersverifikation erforderlich (18+)"
+
+msgid "Map Provider"
+msgstr "Kartenanbieter"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+# User Profile
+msgid "Erosity Settings"
+msgstr "Erosity-Einstellungen"
+
+msgid "Custom Commission Rate"
+msgstr "Individueller Provisionssatz"
+
+msgid "Custom Commission Rate (%)"
+msgstr "Individueller Provisionssatz (%)"
+
+msgid "Leave empty to use the global commission rate (%s%%). Set a custom rate to override the global setting for this user."
+msgstr "Leer lassen, um den globalen Provisionssatz (%s%%) zu verwenden. Setzen Sie einen individuellen Satz, um die globale Einstellung für diesen Benutzer zu überschreiben."
+
+msgid "This user has a custom commission rate"
+msgstr "Dieser Benutzer hat einen individuellen Provisionssatz"
+
+msgid "Global rate"
+msgstr "Globaler Satz"
+
+# Statistics
+msgid "Commission Overview"
+msgstr "Provisionsübersicht"
+
+msgid "Total Earned"
+msgstr "Gesamt verdient"
+
+msgid "Pending"
+msgstr "Ausstehend"
+
+msgid "Expected"
+msgstr "Erwartet"
+
+msgid "Recent Commissions"
+msgstr "Aktuelle Provisionen"
+
+msgid "No commissions yet."
+msgstr "Noch keine Provisionen."
+
+msgid "Booking ID"
+msgstr "Buchungs-ID"
+
+msgid "Vendor"
+msgstr "Anbieter"
+
+msgid "Booking Amount"
+msgstr "Buchungsbetrag"
+
+msgid "Commission"
+msgstr "Provision"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Booking Statistics"
+msgstr "Buchungsstatistiken"
+
+msgid "Total Bookings"
+msgstr "Gesamte Buchungen"
+
+msgid "Active Bookings"
+msgstr "Aktive Buchungen"
+
+msgid "Pending Bookings"
+msgstr "Ausstehende Buchungen"
+
+# Frontend
+msgid "Login"
+msgstr "Anmelden"
+
+msgid "Username or Email"
+msgstr "Benutzername oder E-Mail"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Remember Me"
+msgstr "Angemeldet bleiben"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Confirm Password"
+msgstr "Passwort bestätigen"
+
+msgid "I confirm that I am at least 18 years old"
+msgstr "Ich bestätige, dass ich mindestens 18 Jahre alt bin"
+
+msgid "I agree to the Terms and Conditions"
+msgstr "Ich stimme den Allgemeinen Geschäftsbedingungen zu"
+
+msgid "You are already logged in."
+msgstr "Sie sind bereits angemeldet."
+
+msgid "Please log in to access your dashboard."
+msgstr "Bitte melden Sie sich an, um auf Ihr Dashboard zuzugreifen."
+
+msgid "Please log in to add a property."
+msgstr "Bitte melden Sie sich an, um eine Unterkunft hinzuzufügen."
+
+msgid "Please complete your profile before adding a property."
+msgstr "Bitte vervollständigen Sie Ihr Profil, bevor Sie eine Unterkunft hinzufügen."
+
+msgid "Welcome back!"
+msgstr "Willkommen zurück!"
+
+msgid "My Listings"
+msgstr "Meine Inserate"
+
+msgid "My Bookings"
+msgstr "Meine Buchungen"
+
+msgid "Unread Messages"
+msgstr "Ungelesene Nachrichten"
+
+msgid "Please complete your profile to list properties."
+msgstr "Bitte vervollständigen Sie Ihr Profil, um Unterkünfte einzustellen."
+
+msgid "Complete Profile"
+msgstr "Profil vervollständigen"
+
+msgid "My Properties"
+msgstr "Meine Unterkünfte"
+
+msgid "Add New Property"
+msgstr "Neue Unterkunft hinzufügen"
+
+msgid "Add New Toy"
+msgstr "Neues Spielzeug hinzufügen"
+
+msgid "You have not added any properties yet."
+msgstr "Sie haben noch keine Unterkünfte hinzugefügt."
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "View"
+msgstr "Ansehen"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Profile Settings"
+msgstr "Profil-Einstellungen"
+
+msgid "Personal Information"
+msgstr "Persönliche Informationen"
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "Last Name"
+msgstr "Nachname"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Street"
+msgstr "Straße"
+
+msgid "House Number"
+msgstr "Hausnummer"
+
+msgid "Postal Code"
+msgstr "Postleitzahl"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Payment Information"
+msgstr "Zahlungsinformationen"
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "BIC"
+msgstr "BIC"
+
+msgid "VAT Number (Optional)"
+msgstr "Umsatzsteuer-ID (Optional)"
+
+msgid "Save Profile"
+msgstr "Profil speichern"
+
+# Property Listing
+msgid "Search & Filter"
+msgstr "Suche & Filter"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "Search properties..."
+msgstr "Unterkünfte suchen..."
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "City or postal code"
+msgstr "Stadt oder Postleitzahl"
+
+msgid "Radius (km)"
+msgstr "Umkreis (km)"
+
+msgid "Booking Type"
+msgstr "Buchungsart"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Hourly"
+msgstr "Stündlich"
+
+msgid "Nightly"
+msgstr "Übernachtung"
+
+msgid "Min Price (€)"
+msgstr "Mindestpreis (€)"
+
+msgid "Max Price (€)"
+msgstr "Höchstpreis (€)"
+
+msgid "Filter"
+msgstr "Filtern"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "No properties found."
+msgstr "Keine Unterkünfte gefunden."
+
+msgid "No image"
+msgstr "Kein Bild"
+
+msgid "From"
+msgstr "Ab"
+
+msgid "/ night"
+msgstr "/ Nacht"
+
+msgid "View Details"
+msgstr "Details ansehen"
+
+# Multi-step Form
+msgid "Add Property"
+msgstr "Unterkunft hinzufügen"
+
+msgid "Step 1: Basic Information"
+msgstr "Schritt 1: Grundinformationen"
+
+msgid "Property Name"
+msgstr "Name der Unterkunft"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Select Category"
+msgstr "Kategorie auswählen"
+
+msgid "Short Description"
+msgstr "Kurzbeschreibung"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Step 2: Property Details"
+msgstr "Schritt 2: Unterkunftsdetails"
+
+msgid "Property details form will be implemented here"
+msgstr "Formular für Unterkunftsdetails wird hier implementiert"
+
+msgid "Previous"
+msgstr "Zurück"
+
+# Misc
+msgid "Loading..."
+msgstr "Lädt..."
+
+msgid "An error occurred"
+msgstr "Ein Fehler ist aufgetreten"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Stars"
+msgstr "Sterne"
+
+msgid "Rating"
+msgstr "Bewertung"
+
+msgid "Property ID"
+msgstr "Unterkunfts-ID"
+
+msgid "Reviewer"
+msgstr "Bewerter"
+
+msgid "Sender"
+msgstr "Absender"
+
+msgid "Receiver"
+msgstr "Empfänger"
+
+msgid "Shipping Buffer Days:"
+msgstr "Versandpuffer (Tage):"
+
+msgid "Shipping Cost (€):"
+msgstr "Versandkosten (€):"
+
+msgid "Return Shipping Cost (€):"
+msgstr "Rücksendekosten (€):"
+
+msgid "Custom"
+msgstr "Individuell"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Toy-specific fields will be added here"
+msgstr "Spielzeug-spezifische Felder werden hier hinzugefügt"
+
+msgid "Shipping Settings"
+msgstr "Versandeinstellungen"
+
+msgid "Toy Details"
+msgstr "Spielzeug-Details"

@@ -41,14 +41,21 @@ class Erosity_Payment {
     /**
      * Calculate commission
      *
-     * @param float $amount Booking amount
-     * @param float $rate   Commission rate (percentage)
+     * @param float $amount    Booking amount
+     * @param float $rate      Commission rate (percentage) - optional
+     * @param int   $vendor_id Vendor user ID - optional, used to get user-specific rate
      * @return float
      */
-    public static function calculate_commission($amount, $rate = null) {
+    public static function calculate_commission($amount, $rate = null, $vendor_id = null) {
         if (is_null($rate)) {
-            $settings = get_option('erosity_settings', array());
-            $rate = isset($settings['commission_rate']) ? floatval($settings['commission_rate']) : 10;
+            // If vendor_id is provided, get their specific rate
+            if (!is_null($vendor_id)) {
+                $rate = Erosity_User::get_commission_rate($vendor_id);
+            } else {
+                // Otherwise use global rate
+                $settings = get_option('erosity_settings', array());
+                $rate = isset($settings['commission_rate']) ? floatval($settings['commission_rate']) : 10;
+            }
         }
         
         return round(($amount * $rate) / 100, 2);
@@ -66,7 +73,7 @@ class Erosity_Payment {
         // This will integrate with Stripe Connect
         // For now, return a placeholder
         
-        $commission = self::calculate_commission($amount);
+        $commission = self::calculate_commission($amount, null, $vendor_id);
         $vendor_amount = $amount - $commission;
         
         return array(

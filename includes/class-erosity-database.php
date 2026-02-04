@@ -43,6 +43,7 @@ class Erosity_Database {
             age_verified_date datetime DEFAULT NULL,
             stripe_account_id varchar(255) DEFAULT NULL,
             stripe_account_status varchar(50) DEFAULT NULL,
+            commission_rate decimal(5,2) DEFAULT NULL,
             created_at datetime DEFAULT CURRENT_TIMESTAMP,
             updated_at datetime DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
             PRIMARY KEY  (id),

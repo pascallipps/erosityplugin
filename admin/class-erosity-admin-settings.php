@@ -126,7 +126,7 @@ class Erosity_Admin_Settings {
                 <table class="form-table">
                     <tr>
                         <th scope="row">
-                            <label for="commission_rate"><?php _e('Commission Rate (%)', 'erosity'); ?></label>
+                            <label for="commission_rate"><?php _e('Default Commission Rate (%)', 'erosity'); ?></label>
                         </th>
                         <td>
                             <input type="number" 
@@ -136,6 +136,9 @@ class Erosity_Admin_Settings {
                                    step="0.01" 
                                    min="0" 
                                    max="100">
+                            <p class="description">
+                                <?php _e('Global commission rate for all vendors. Individual vendors can override this in their profile.', 'erosity'); ?>
+                            </p>
                         </td>
                     </tr>
                     

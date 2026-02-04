@@ -147,6 +147,9 @@ final class Erosity {
         // Initialize taxonomies
         Erosity_Taxonomies::init();
         
+        // Initialize user management
+        Erosity_User::init();
+        
         // Initialize admin
         if (is_admin()) {
             Erosity_Admin::init();
