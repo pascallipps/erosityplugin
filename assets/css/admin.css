@@ -1,0 +1,54 @@
+/* Erosity Admin Styles */
+
+.erosity-dashboard {
+    padding: 20px;
+}
+
+.erosity-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.erosity-stat-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.erosity-stat-card h3 {
+    margin: 0 0 10px;
+    font-size: 14px;
+    color: #666;
+    text-transform: uppercase;
+}
+
+.erosity-stat-card .stat-value {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+}
+
+.erosity-recent-activity {
+    margin-top: 30px;
+}
+
+.erosity-activity-list {
+    list-style: none;
+    padding: 0;
+}
+
+.erosity-activity-list li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.form-table input[type="number"],
+.form-table input[type="text"],
+.form-table select {
+    width: 300px;
+}
